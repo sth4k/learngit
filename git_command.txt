@@ -1,0 +1,10 @@
+--git init
+  create the repo
+--git add dummy.txt
+  add the file
+--git commit -m "dummy msg"
+  commit the changes with msg
+--git status
+  check the status of current git repo, what has been modified and has it been committed
+--git diff dummy.txt
+  check the difference (i.e., modifications) on the file
