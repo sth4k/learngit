@@ -10,3 +10,7 @@
   check the difference (i.e., modifications) on the file
 --git log --pretty=oneline
   check the commit history
+--git reset --hard HEAD
+  set the git version to HEAD
+--git reflog
+  check the HEAD for each version
