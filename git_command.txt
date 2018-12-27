@@ -14,3 +14,13 @@
   set the git version to HEAD
 --git reflog
   check the HEAD for each version
+--git remote add origin git@server-name:path/repo-name.git
+--git push -u origin master
+
+branch:
+--git branch
+--git branch xx
+--git checkout xx
+--git checkout -b xx
+--git merge xx
+--git branch -d xx
