@@ -8,3 +8,5 @@
   check the status of current git repo, what has been modified and has it been committed
 --git diff dummy.txt
   check the difference (i.e., modifications) on the file
+--git log --pretty=oneline
+  check the commit history
